@@ -1,4 +1,7 @@
 # Prototype-Website
 A prototype portfolio page using only HTML
 
-There are more than 1000 lines of code
+Key Features:
+- Navigation Bar that directs the user to a part of a page
+- Interactive UX design
+- Day/Night mode
